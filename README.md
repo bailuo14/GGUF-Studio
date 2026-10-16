@@ -1,7 +1,3 @@
-# GGUF-Studio<div align="center">
-
-<img src="src-tauri/icons/icon.png" width="128" alt="GGUF Studio">
-
 # GGUF Studio
 
 **图灵卡专属的本地大模型客户端 —— 轻量、离线、开箱即用**
