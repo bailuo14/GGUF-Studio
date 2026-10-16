@@ -95,13 +95,17 @@ Tauri + llama.cpp · 空闲内存约 80 MB · 自带图灵架构推理优化
 
 ## 下载
 
-### 方式一：网盘（国内推荐）
+### GGUF Studio（客户端）
 
-> **<晚点>**
+- **最新版 v1.2.1（含语音引擎）**：<暂无，晚点会补上>
+- **GitHub Releases**：v0.2.0 / v0.3.0（早期版本）
+- v0.5.0 及以后的完整包约 112 MB，GitHub 上传受限，请用上面的网盘链接，如果能解决会在GitHub继续上传
 
-### 方式二：GitHub Releases
+### 附：LM Studio 聊天记录导出工具
 
-见本仓库的 [Releases](../../releases) 页面。
+5 KB 的小工具，双击即可把 LM Studio 的全部聊天记录导出成 txt：
+
+**下载** → https://github.com/bailuo14/GGUF-Studio/releases/download/tool-v1/LM-Studio-Chat-Exporter.zip
 
 ---
 
