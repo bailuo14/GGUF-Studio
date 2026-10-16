@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src-tauri/icons/icon.png" width="128" alt="GGUF Studio">
+<img src="icon.png" width="128" alt="GGUF Studio">
 
 # GGUF Studio
 
