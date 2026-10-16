@@ -97,15 +97,25 @@ Tauri + llama.cpp · 空闲内存约 80 MB · 自带图灵架构推理优化
 
 ### GGUF Studio（客户端）
 
-- **最新版 v1.2.1（含语音引擎）**：<暂无，晚点会补上>
-- **GitHub Releases**：v0.2.0 / v0.3.0（早期版本）
-- v0.5.0 及以后的完整包约 112 MB，GitHub 上传受限，请用上面的网盘链接，如果能解决会在GitHub继续上传
+| 版本 | 说明 | 下载 |
+|---|---|---|
+| **v1.2.1** | 最新版，含离线语音引擎 | [GGUF-Studio-v1.2.1.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/v1.2.1/GGUF-Studio-v1.2.1.zip) |
+| v0.6.0 | 角色卡 / 长期记忆 / MCP HTTP | [GGUF-Studio-v0.6.0.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/v0.6/GGUF-Studio-v0.6.0.zip) |
+| v0.5.0 | 加入 Piper 离线语音 | [GGUF-Studio-v0.5.0.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/v0.5/GGUF-Studio-v0.5.0.zip) |
+| v0.3.0 | 加入云端 API | [GGUF-Studio-v0.3.0.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/v0.3/GGUF-Studio-v0.3.0.zip) |
+| v0.2.0 | 首次打包（MCP） | [GGUF-Studio-v0.2.0-MCP.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/v0.2/GGUF-Studio-v0.2.0-MCP.zip) |
 
-### 附：LM Studio Ollama聊天记录导出工具
+> 完整包约 112 MB（含推理内核与语音引擎）。
+> 旧版功能和稳定性都不及最新版，一般建议直接用 v1.2.1。
 
-5 KB 的小工具，双击即可把 LM Studio 的全部聊天记录导出成 txt：
+### 附：聊天记录导出工具
 
-**下载** → [https://github.com/bailuo14/GGUF-Studio/releases/download/chat-export-v1/chat-export.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/tool-v2/chat-export.zip)
+把 **Ollama** 和 **LM Studio** 的聊天记录导出成 txt，双击即用，无网络功能。（工具的第 2 版）
+
+**下载** → https://github.com/bailuo14/GGUF-Studio/releases/download/tool-v2/chat-export.zip
+
+> 源码在 [tools/chat-export](tools/chat-export)（约 300 行 Rust，只读本地文件，不含任何网络代码）
+> 另有纯 PowerShell 版（只支持 LM Studio，不含二进制文件）：[tools/lm-import.ps1](tools/lm-import.ps1)
 
 
 ## 支持作者
@@ -120,7 +130,8 @@ Tauri + llama.cpp · 空闲内存约 80 MB · 自带图灵架构推理优化
   <img src="sponsor-alipay.png" width="190" alt="支付宝">
 </p>
 
-> 也欢迎点个 ⭐ Star，或者去B站(https://space.bilibili.com/1587548320)) 留句话，都是支持。
+> 也欢迎点个 ⭐ Star，或者去B站(https://space.bilibili.com/1587548320) 留句话，都是支持。
+> 
 ---
 
 ## 快速开始
