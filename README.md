@@ -120,7 +120,7 @@ Tauri + llama.cpp · 空闲内存约 80 MB · 自带图灵架构推理优化
   <img src="sponsor-alipay.png" width="190" alt="支付宝">
 </p>
 
-> 也欢迎点个 ⭐ Star，或者去B站(https://space.bilibili.com/1587548320))留句话，都是支持。
+> 也欢迎点个 ⭐ Star，或者去B站(https://space.bilibili.com/1587548320)) 留句话，都是支持。
 ---
 
 ## 快速开始
