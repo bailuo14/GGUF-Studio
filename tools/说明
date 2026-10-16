@@ -1,0 +1,4 @@
+这里的源码仅供查看（GitHub 网页保存会丢掉 BOM，直接运行会中文乱码）。
+
+实际使用请下载打包好的版本：
+https://github.com/bailuo14/GGUF-Studio/releases/download/tool-v1/LM-Studio-Chat-Exporter.zip
