@@ -1,6 +1,3 @@
-markdown
-
-
 <div align="center">
 
 <img src="cover2-B.png" width="100%" alt="GGUF Studio">
