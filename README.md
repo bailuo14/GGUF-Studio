@@ -115,10 +115,12 @@ Tauri + llama.cpp · 空闲内存约 80 MB · 自带图灵架构推理优化
 如果它帮你省了事，可以请我喝杯咖啡 ☕（完全随意，不影响任何功能）
 
 <p align="center">
-  <img src="sponsor.png" width="220" alt="赞赏码">
+  <img src="sponsor-wechat.png" width="190" alt="微信">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="sponsor-alipay.png" width="190" alt="支付宝">
 </p>
 
-> 也欢迎点个 ⭐ Star，或者去 [B站]((https://space.bilibili.com/1587548320?spm_id_from=333.1007.0.0)) 留句话，都是支持。
+> 也欢迎点个 ⭐ Star，或者去B站(https://space.bilibili.com/1587548320))留句话，都是支持。
 ---
 
 ## 快速开始
