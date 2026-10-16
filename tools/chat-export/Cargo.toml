@@ -1,0 +1,16 @@
+[package]
+name = "chat-export"
+version = "1.0.0"
+edition = "2021"
+description = "把 Ollama / LM Studio 的聊天记录导出成 txt"
+
+[dependencies]
+rusqlite = { version = "0.32", features = ["bundled"] }
+serde_json = "1"
+
+[profile.release]
+opt-level = "z"
+lto = true
+strip = true
+codegen-units = 1
+panic = "abort"
