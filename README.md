@@ -42,7 +42,7 @@ Tauri + llama.cpp · 空闲内存约 80 MB · 自带图灵架构推理优化
 
 ### 📦 无痛搬家
 
-支持导入 LM Studio 的聊天记录与 MCP 配置，不需要重开对话。
+支持导入 LM Studio，Ollama的聊天记录与 MCP 配置，不需要重开对话。
 
 ---
 
@@ -99,8 +99,8 @@ Tauri + llama.cpp · 空闲内存约 80 MB · 自带图灵架构推理优化
 
 | 版本 | 说明 | 下载 |
 |---|---|---|
-| **v1.2.1** | 最新版，含离线语音引擎 | (https://github.com/bailuo14/GGUF-Studio/releases/latest)
-> 完整包约 112 MB（含推理内核与语音引擎）。
+最新版 | (https://github.com/bailuo14/GGUF-Studio/releases/latest)
+> 完整包约 116 MB（含推理内核与语音引擎）。
 > 旧版功能和稳定性都不及最新版，一般建议直接用 v1.2.1。
 
 ### 附：聊天记录导出工具
