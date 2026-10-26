@@ -99,12 +99,7 @@ Tauri + llama.cpp · 空闲内存约 80 MB · 自带图灵架构推理优化
 
 | 版本 | 说明 | 下载 |
 |---|---|---|
-| **v1.2.1** | 最新版，含离线语音引擎 | [GGUF-Studio-v1.2.1.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/v1.2.1/GGUF-Studio-v1.2.1.zip) |
-| v0.6.0 | 角色卡 / 长期记忆 / MCP HTTP | [GGUF-Studio-v0.6.0.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/v0.6/GGUF-Studio-v0.6.0.zip) |
-| v0.5.0 | 加入 Piper 离线语音 | [GGUF-Studio-v0.5.0.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/v0.5/GGUF-Studio-v0.5.0.zip) |
-| v0.3.0 | 加入云端 API | [GGUF-Studio-v0.3.0.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/v0.3/GGUF-Studio-v0.3.0.zip) |
-| v0.2.0 | 首次打包（MCP） | [GGUF-Studio-v0.2.0-MCP.zip](https://github.com/bailuo14/GGUF-Studio/releases/download/v0.2/GGUF-Studio-v0.2.0-MCP.zip) |
-
+| **v1.2.1** | 最新版，含离线语音引擎 | (https://github.com/bailuo14/GGUF-Studio/releases/latest)
 > 完整包约 112 MB（含推理内核与语音引擎）。
 > 旧版功能和稳定性都不及最新版，一般建议直接用 v1.2.1。
 
