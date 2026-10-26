@@ -97,7 +97,7 @@ Tauri + llama.cpp · 空闲内存约 80 MB · 自带图灵架构推理优化
 
 ### GGUF Studio（客户端）
 
-| 版本 | 说明 | 下载 |
+| 版本 | 下载 |
 |---|---|---|
 最新版 | (https://github.com/bailuo14/GGUF-Studio/releases/latest)
 > 完整包约 116 MB（含推理内核与语音引擎）。
